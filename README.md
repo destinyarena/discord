@@ -1,0 +1,2 @@
+# discord
+Rust discord bot
